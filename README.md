@@ -16,7 +16,7 @@ Criação de uma lista de tarefas que permite cadastrar e remover os itens, alem
 
 * [CSS](https://www.w3schools.com/css/default.asp) - Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags "style". Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos.
 
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - CJavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
 ## Status do Projeto
 
@@ -31,7 +31,7 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo  [LICENSE.
 
 
 ## Links
-* [Demo]() - ainda não disponivel
+* [Demo]() - ainda não disponivel.
 
 
 
